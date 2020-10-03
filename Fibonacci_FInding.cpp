@@ -2,7 +2,7 @@
 #define lli long long int
 #define mod 1000000007
 using namespace std;
-//VJ's Code
+
 
 vector<string> split_string(string);
 
